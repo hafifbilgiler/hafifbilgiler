@@ -1,0 +1,2 @@
+# hafifbilgiler
+Genel Kodlar
