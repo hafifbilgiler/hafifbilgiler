@@ -13,5 +13,10 @@ Nginx Deployment Create:
     
     kubectl create -f nginx-deployment.yaml
 
+
+Service Create For Nginx Deployment:
+
+    kubectl create -f nginx-service.yaml
+
     
 
