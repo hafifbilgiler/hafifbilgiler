@@ -1,5 +1,6 @@
 # hafifbilgiler
-General Codes
+--------------------------General Codes------------------------------------------
+
 Nginx Pod Create:
     
     kubectl create -f nginx-pod.yaml
