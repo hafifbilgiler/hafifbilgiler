@@ -21,5 +21,10 @@ Service Create For Nginx Deployment:
  
 Job Create:
 
-    kubectl create -f nginx-service.yaml   
+    kubectl create -f job.yaml   
+
+Job Create For Backup Create:
+
+    kubectl create -f job-backoff.yaml 
+
 
