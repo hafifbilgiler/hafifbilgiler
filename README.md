@@ -23,8 +23,15 @@ Job Create:
 
     kubectl create -f job.yaml   
 
-Job Create For Backup Create:
+Job Create For Backoff Limits:
 
     kubectl create -f job-backoff.yaml 
 
+Job Create For Completions And Parallelism:
+
+    kubectl create -f job-completions-parallelism.yaml
+
+Job Create For TTL After Finished:
+
+    kubectl create -f job-ttl.yaml
 
