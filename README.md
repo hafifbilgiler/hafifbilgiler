@@ -18,5 +18,8 @@ Service Create For Nginx Deployment:
 
     kubectl create -f nginx-service.yaml
 
-    
+ 
+Job Create:
+
+    kubectl create -f nginx-service.yaml   
 
