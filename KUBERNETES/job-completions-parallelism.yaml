@@ -12,4 +12,5 @@ spec:
       restartPolicy: Never
   backoffLimit: 2
   completions: 4
-  parallelism: 2
+  parallelism: 3
+  
