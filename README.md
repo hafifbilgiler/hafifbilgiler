@@ -67,3 +67,7 @@ Below step will create, after take database pod ip and adding yaml file
 7) Create Bookstack Application Kubernetes Resources
 
     kubectl create -f bookstack.yaml
+
+8) Create Bookstack Applicaiton Service Resources
+
+    kubectl create -f bookstacksvc.yaml
