@@ -34,7 +34,7 @@ Job Create For Completions And Parallelism:
 Job Create For TTL After Finished:
 
     kubectl create -f job-ttl.yaml
-================================================BOOKSTACK APPLICATION RUN ON KUBERNETES=========================================================0
+==============BOOKSTACK APPLICATION RUN ON KUBERNETES========================
 Please follow the below queue
 
 1) Create Bookstack Application PV Kubernetes Resources
