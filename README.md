@@ -62,7 +62,7 @@ Please follow the below queue
 
     kubectl create -f bookstackdb.yaml
 
-Below step create after take database pod ip and adding yaml file 
+Below step will create, after take database pod ip and adding yaml file 
 
 7) Create Bookstack Application Kubernetes Resources
 
