@@ -1,6 +1,7 @@
 This Document Tell The Nginx Web Server Installation With Ansible Automation Platform                                                                                                              
-If you want install the nginx, you should follow below steps;  
-============================================================================================
+If you want install the nginx, you should follow below steps; 
+ 
+=========================================================================================
 1) You should create ssh key and copy remote machine or machines:
    
  -   ssh-keygen
@@ -13,4 +14,4 @@ If you want install the nginx, you should follow below steps;
  -  systemctl status nginx
 
 
-=============================================================================================
+=========================================================================================
